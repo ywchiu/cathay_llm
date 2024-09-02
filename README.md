@@ -1,2 +1,2 @@
-# cathay_llm
-cathay_llm
+# 大型語言模型（LLM）實戰課程
+大型語言模型（LLM）實戰課程

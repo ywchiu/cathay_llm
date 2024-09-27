@@ -8,6 +8,9 @@
 ### 20240920
 - https://colab.research.google.com/drive/1dFQ0CJJO98kgsuk6-1ldjvWV_woD8UlE?usp=sharing
 
+### 20240927
+- https://colab.research.google.com/drive/1GsWK_MIWE3-lAO-wTBmsmcuiVJ9YJqJ9?usp=sharing
+
 ## Colab
 - https://colab.research.google.com/
 

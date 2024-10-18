@@ -28,3 +28,9 @@
 ### MinerU
 - https://github.com/opendatalab/MinerU
 
+### Embedding 評測
+- https://github.com/ihower/zh-tw-embedding-model-benchmark
+
+### Nudge
+- https://www.arxiv.org/abs/2409.02343
+

@@ -17,4 +17,14 @@
 ## Colab
 - https://colab.research.google.com/
 
+## 補充資料
+
+### MTEB
+- https://huggingface.co/spaces/mteb/leaderboard
+
+### Context Retrieval
+- https://www.anthropic.com/news/contextual-retrieval
+
+### MinerU
+- https://github.com/opendatalab/MinerU
 

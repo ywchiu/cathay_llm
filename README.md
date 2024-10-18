@@ -11,6 +11,9 @@
 ### 20240927
 - https://colab.research.google.com/drive/1GsWK_MIWE3-lAO-wTBmsmcuiVJ9YJqJ9?usp=sharing
 
+### 20241018
+- https://colab.research.google.com/drive/1cMgDeaZAWhBaQNhwQGNIQx99VbhlApn_?usp=sharing
+
 ## Colab
 - https://colab.research.google.com/
 
